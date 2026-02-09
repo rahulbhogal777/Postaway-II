@@ -5,7 +5,7 @@ NOTE:- IN ENV FILE PUT YOUR GMAIL EMAIL'ID AND APP PASSWORD.
 Postaway is a backend application built with Node.js that follows a microservices-inspired modular architecture. It provides core social media features such as user management, posts, likes, comments, friends, and OTP-based authentication, with support for Redis, MongoDB, JWT authentication, file uploads, and email services.
 
 Features
-    User authentication with JWT
+User authentication with JWT
     OTP generation and verification (Email-based)
     Secure password hashing using bcrypt
     CRUD operations for:
